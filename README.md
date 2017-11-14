@@ -1,2 +1,6 @@
 # npp_python_scripts
-My Notepad++ Python Script scripts
+My Notepad++ PythonScript plugin scripts  
+
+Скрипты для плагина PythonScript текстового редактора Notepad++  
+
+**re_crop_words.py** - Скрипт запрашивает у пользователя регулярное выражение и заменяет весь текст на отсортированный список уникальных значений первых групп из найденных вхождений шаблона.  
